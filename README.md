@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeet120304
+- 👋 Hi, I’m @jeet120304 ....
 - 👀 I’m interested in Frontend developement.
 - 🌱 I’m currently learning web technologies..
 - 💞️ I’m looking to collaborate on the people who are working on related technologies..
